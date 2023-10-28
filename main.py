@@ -6,6 +6,6 @@ while i >= 1:
     print(i)
     sleep(1)
     if i == 1:
-        print("fim")
+        print("End")
     i = i - 1
 
